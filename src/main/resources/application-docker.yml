@@ -1,0 +1,5 @@
+﻿spring:
+  datasource:
+    url: jdbc:postgresql://postgres:5432/taskmanager
+    username: taskuser
+    password: taskpass

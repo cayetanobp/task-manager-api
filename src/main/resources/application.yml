@@ -1,0 +1,22 @@
+﻿spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/taskmanager
+    username: taskuser
+    password: taskpass
+  sql:
+    init:
+      mode: always
+  jpa:
+    hibernate:
+      ddl-auto: update
+    defer-datasource-initialization: true
+    open-in-view: false
+    properties:
+      hibernate:
+        format_sql: true
+  jackson:
+    serialization:
+      write-dates-as-timestamps: false
+
+server:
+  port: 8080
