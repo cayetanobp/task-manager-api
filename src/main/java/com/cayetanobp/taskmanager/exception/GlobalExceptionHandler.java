@@ -1,4 +1,4 @@
-﻿package com.cayetanobp.taskmanager.exception;
+package com.cayetanobp.taskmanager.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

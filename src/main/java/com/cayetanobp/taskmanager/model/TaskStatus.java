@@ -1,4 +1,4 @@
-﻿package com.cayetanobp.taskmanager.model;
+package com.cayetanobp.taskmanager.model;
 
 public enum TaskStatus {
     PENDING,

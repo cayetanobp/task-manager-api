@@ -1,4 +1,4 @@
-﻿package com.cayetanobp.taskmanager.exception;
+package com.cayetanobp.taskmanager.exception;
 
 public class TaskNotFoundException extends RuntimeException {
 

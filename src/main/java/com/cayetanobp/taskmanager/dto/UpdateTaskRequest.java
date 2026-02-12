@@ -1,4 +1,4 @@
-﻿package com.cayetanobp.taskmanager.dto;
+package com.cayetanobp.taskmanager.dto;
 
 import com.cayetanobp.taskmanager.model.Priority;
 import com.cayetanobp.taskmanager.model.TaskStatus;

@@ -1,4 +1,4 @@
-﻿package com.cayetanobp.taskmanager.controller;
+package com.cayetanobp.taskmanager.controller;
 
 import com.cayetanobp.taskmanager.model.Priority;
 import com.cayetanobp.taskmanager.model.Task;
